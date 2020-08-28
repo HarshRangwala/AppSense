@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FastCSV/FastCSV.iml" filepath="$PROJECT_DIR$/FastCSV/FastCSV.iml" group="Magnetometer/FastCSV" />
+      <module fileurl="file://$PROJECT_DIR$/Magnetometer.iml" filepath="$PROJECT_DIR$/Magnetometer.iml" group="Magnetometer" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Magnetometer/app" />
+    </modules>
+  </component>
+</project>

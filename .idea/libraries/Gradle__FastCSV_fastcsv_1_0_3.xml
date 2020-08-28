@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: FastCSV.fastcsv-1.0.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/FastCSV/build/libs/fastcsv-1.0.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
